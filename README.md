@@ -2,7 +2,6 @@
 
 - Working as Software Engineer at [Dropcommerce Inc](https://www.dropcommerce.com/) since 2022.
 - Software Engineer since 2016.
-- IT Infrastructure analyst since 2013.
 - Losing my hair with IT since 2009.
 
 <hr>
