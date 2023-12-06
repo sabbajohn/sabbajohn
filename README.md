@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- Working as Software Engineer at [Dropcommerce Inc](https://www.dropcommerce.com/) since 2022.
+- Team Lead and Senior Developer @ [LetterHead AI] at [Dropcommerce Inc](https://letterhead.ai/) since 2023.
 - Software Engineer since 2016.
 - Losing my hair with IT since 2009.
 
