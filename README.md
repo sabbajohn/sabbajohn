@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- Team Lead and Senior Developer @ [LetterHead AI] at [Dropcommerce Inc](https://letterhead.ai/) since 2023.
+- Team Lead and Senior Developer @ [LetterHead AI](https://letterhead.ai/) since 2023.
 - Software Engineer since 2016.
 - Losing my hair with IT since 2009.
 
