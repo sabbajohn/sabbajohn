@@ -45,11 +45,10 @@ Senior Backend Developer and Tech Lead passionate about solving tough problems, 
 ## 📊 GitHub Stats
 
 <div>
-<a href="https://github.com/sabbajohn">
-  <img height='160em' align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/sabbajohn?cardType=level-alternate&theme=vue-dark&fontFamily=Acme&preferLogin=true"/>
-</a>
   
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=vue-dark&fontFamily=Acme&preferLogin=true">    <img  alt="sabbajohn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sabbajohn?cardType=level-alternate&theme=vue-dark&fontFamily=Acme&preferLogin=true" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=Acme&preferLogin=true">    
+      <img  alt="sabbajohn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sabbajohn?cardType=level-alternate&theme=tokyonight&fontFamily=Acme&preferLogin=true" />  
+  </a>
 </div>
 
 ---
