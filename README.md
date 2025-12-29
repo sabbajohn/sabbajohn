@@ -47,7 +47,7 @@ Senior Backend Developer and Tech Lead passionate about solving tough problems, 
 <div>
 <a href="https://github.com/sabbajohn">
   <!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sabbajohn?cardType=level-alternate&theme=vue-dark&fontFamily=Acme&preferLogin=true)](https://git.io/awesome-stats-card) -->
-  <img height='160em' align="center" src="[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sabbajohn?cardType=level-alternate&theme=vue-dark&fontFamily=Acme&preferLogin=true)](https://git.io/awesome-stats-card)"/>
+  <img height='160em' align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/sabbajohn?cardType=level-alternate&theme=vue-dark&fontFamily=Acme&preferLogin=true"/>
 </a>
 <a href="https://github.com/sabbajohn">
   <img height='160em' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbajohn&exclude_repo=pythonserver&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/>
