@@ -49,7 +49,7 @@ Senior Backend Developer and Tech Lead passionate about solving tough problems, 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=Acme&preferLogin=true">    
       <img  alt="sabbajohn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sabbajohn?cardType=level-alternate&theme=tokyonight&fontFamily=Acme&preferLogin=true" />  
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sabbajohn&theme=tokyonight&ring=EB1734" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sabbajohn&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
 ---
