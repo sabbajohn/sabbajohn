@@ -2,8 +2,8 @@
 
 Nerd for tech, always curious and driven by challenges.  
 Senior Backend Developer and Tech Lead passionate about solving tough problems, building integrations, and leading teams.
-
-- 🏢 **Team Lead & Senior Developer** at [LetterHead AI](https://letterhead.ai/) (2023–2024)
+- 🏢 **Tech Lead & SRE** at [Freeline Informática & Faives Tecnologia](https://faives.com.br/) (2025–Present)
+- 🏢 **Team Lead & Senior Developer** at [LetterHead AI](https://letterhead.ai/) (2022–2024)
 - 🚀 **Founder** at Sabba Sistemas Ltda — delivering custom solutions, open source, and technical workshops
 - 💻 **Software Engineer** since 2016 (but losing my hair with IT since 2009)
 
