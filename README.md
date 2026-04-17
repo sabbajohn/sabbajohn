@@ -2,7 +2,7 @@
 
 Nerd for tech, always curious and driven by challenges.  
 Senior Backend Developer and Tech Lead passionate about solving tough problems, building integrations, and leading teams.
-- 🚀 **Founder** at Vora Sys Ltda[Vora Sys Ltda](https://vora-sys.com/) — delivering modern and custom solutions to growing busines.
+- 🚀 **Founder** at [Vora Sys Ltda](https://vora-sys.com/) — delivering modern and custom solutions to growing busines.
 - 🏢 **Tech Lead & SRE** at [Freeline Informática & Faives Tecnologia](https://faives.com.br/) (2025–Present)
 - 🏢 **Team Lead & Senior Developer** at [LetterHead AI](https://letterhead.ai/) (2022–2024)
 - 🚀 **Founder** at Sabba Sistemas Ltda — delivering custom solutions, open source, and technical workshops
